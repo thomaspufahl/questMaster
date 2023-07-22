@@ -1,0 +1,6 @@
+name: questMaster
+version: '${project.version}'
+main: com.thomaspufahl.questmaster.QuestMaster
+description: 'An easy-to-use plugin that allows you to create custom missions and achievements in Minecraft. Enjoy unique adventures and earn exclusive rewards!'
+author: 'Thomas Pufahl'
+api-version: '1.20'
