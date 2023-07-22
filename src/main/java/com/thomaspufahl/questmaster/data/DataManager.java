@@ -15,7 +15,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class DataFile {
+public class DataManager {
     private static final Gson gson = new Gson();
 
     private static File dataFolder;
